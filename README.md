@@ -31,12 +31,16 @@ I'll attempt to answer these primary questions:
 
 ## Contents
 
-### Notebook 
-#### I.   Obtain Data 
-#### II.  Scrub Data
-#### III. Explore Data
-#### IV.  Model Data
-#### V.   Interpret Data
-#### VI.  Conclusions
+### 1. Notebook
 
-### Presentation PDF - for non-technical audience
+This contains all the code for this project. I employ the OSEMN approach for conducting data science, which stands for Obtain / Scrub / Explore / Model / iNterpret. I use iterative modelling approaches to utilize the dataset to create a workable model for predicting house prices.
+
+At the end, I present recommendations and some more visualizations to demonstrate my findings and the strength of the model.
+
+### 2. Presentation PDF - non-technical
+
+These are the slides used for the non-technical presentation of my model, findings, and recommendations, as seen in the video linked above.
+
+### Thank you!
+
+I had a lot of fun working on this project, and feel that I have really strengthened my skills in working through a full data science workflow.

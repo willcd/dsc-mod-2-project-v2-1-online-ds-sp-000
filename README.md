@@ -7,8 +7,8 @@
 * Student pace: **self paced**
 * Scheduled project review date/time: **June 3, 2021 | 2:30pm - 3:30pm**
 * Instructor name: **Jeff Herman**
-* Blog post URL:
-* Prentation Video URL: 
+* Blog post URL: **TBD**
+* Prentation Video URL: https://youtu.be/HAOn-4t6bqE
 
 ## The Project
 
